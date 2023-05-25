@@ -67,6 +67,9 @@ hr.small {
   border-color: inherit;
   border-radius: 0.1875rem;
 }
+p.course {
+ font-size:0.9rem; 
+}
 
 /* fix in-page anchors to not be behind fixed header */
 :target:before {
