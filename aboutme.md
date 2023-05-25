@@ -4,13 +4,6 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Rick Yen is a second-year Ph.D. student at School of Electrical and Computer Engineering, Georgia Institute of Technology. He works with Prof. Chin-Hui Lee on Speech and Language Processing. He received the B.S. degree in Electrical Engineering from National Taiwan University, Taipei, in 2020.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Prior to Georgia Tech, he was working on machine learning and speech processing at Institute of Information Science, Academia Sinica, Taipei. His research interests include automatic speech attribute transcription, multi-lingual speech recognition, low resource speech recognition, keyword information extraction, speech enhancement, and acoustic scene classification.
