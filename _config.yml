@@ -20,7 +20,7 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  Publications: "tags"
+  Publications: "publications"
   
 ################
 # --- Logo --- #
