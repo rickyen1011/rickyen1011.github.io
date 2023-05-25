@@ -70,6 +70,10 @@ hr.small {
 p.course {
  font-size:0.9rem; 
 }
+p.institution{
+  font-size:0.75rem;
+  color:rgba(0,0,0,0.6);
+}
 
 /* fix in-page anchors to not be behind fixed header */
 :target:before {
