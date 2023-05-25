@@ -20,6 +20,7 @@ author: Some Person
 ###############################################
 
 navbar-links:
+  tags: "tags"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -57,7 +58,7 @@ social-network-links:
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: daattali
+  linkedin: "www.linkedin.com/in/hao-rick-yen-1011"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
