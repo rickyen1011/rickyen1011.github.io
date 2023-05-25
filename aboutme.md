@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
 Rick Yen is a second-year Ph.D. student at School of Electrical and Computer Engineering, Georgia Institute of Technology. He works with Prof. Chin-Hui Lee on Speech and Language Processing. He received the B.S. degree in Electrical Engineering from National Taiwan University, Taipei, in 2020.
