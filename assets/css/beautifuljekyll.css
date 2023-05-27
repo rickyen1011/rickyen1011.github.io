@@ -74,6 +74,9 @@ ul.ul-edu li .description p.institution {
     font-size: .75rem;
     color: rgba(0,0,0,.6);
 }
+ul.ul-edu li .description p {
+    margin: 0;
+}
 ul.network-icon{
   display:inline-flex;
   flex-direction:row;
