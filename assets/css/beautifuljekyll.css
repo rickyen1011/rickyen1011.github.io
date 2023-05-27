@@ -120,6 +120,13 @@ ul.network-icon{
     word-break: break-word;
 }
 
+.featurette {
+    font-size: .8rem;
+    line-height: 1.5;
+    color: #555;
+    text-align: center;
+}
+
 .featurette-icon {
     display: block;
     width: 100%;
