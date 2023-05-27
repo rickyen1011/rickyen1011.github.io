@@ -22,16 +22,6 @@ body {
   {% endif %}
   overflow-wrap: break-word;
 }
-/*body {
-    font-family: inherit;
-    font-size: 1.125rem;
-    line-height: inherit;
-    color: inherit;
-    background-color: #fff;
-    padding-top: 0;
-    counter-reset: captions;
-    overflow-x: hidden;
-}*/
 p {
     display: block;
     margin-block-start: 1em;
