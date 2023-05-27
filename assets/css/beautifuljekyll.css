@@ -108,6 +108,18 @@ ul.network-icon{
     margin-bottom: 0.5rem;
 }
 
+.people-pic {
+    width: 100px;
+    height: 100px;
+}
+
+.article-style {
+    overflow: hidden;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+}
+
 /* fix in-page anchors to not be behind fixed header */
 :target:before {
   content: "";
