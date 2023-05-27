@@ -23,8 +23,11 @@ body {
   overflow-wrap: break-word;
 }
 p {
-  line-height: 1.5;
-  margin: 1.875rem 0;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: lora,sans-serif;
