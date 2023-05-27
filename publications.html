@@ -83,6 +83,21 @@ layout: default
   </span>
   <a href="https://arxiv.org/abs/2210.16726">Improvements to Embedding-Matching Acoustic-to-Word ASR Using Multiple-Hypothesis Pronunciation-Based Embeddings</a>.
   <em>IEEE ICASSP 2023</em>
+      
+  <details>
+  <summary>Details...</summary>
+  <div style="border:1px solid #e3e3e3; background-color: #f5f5f5; box-shadow: inset 0 1px 1px rgba(0,0,0,.05); min-height: 20px; padding:1rem">
+      <h5><strong>Abstract</strong></h5>
+      <p style="font-size: 1rem; margin-bottom:0">
+      In embedding-matching acoustic-to-word (A2W) ASR, every word in the vocabulary is represented by a fixed-dimension embedding vector that can be added or removed independently of the rest of the system. 
+      The approach is potentially an elegant solution for the dynamic out-of-vocabulary (OOV) words problem, where speaker- and context-dependent named entities like contact names must be incorporated into the ASR on-the-fly for every speech utterance at testing time. 
+      Challenges still remain, however, in improving the overall accuracy of embedding-matching A2W. 
+      In this paper, we contribute two methods that improve the accuracy of embedding-matching A2W. 
+      First, we propose internally producing multiple embeddings, instead of a single embedding, at each instance in time, which allows the A2W model to propose a richer set of hypotheses over multiple time segments in the audio. 
+      Second, we propose using word pronunciation embeddings rather than word orthography embeddings to reduce ambiguities introduced by words that have more than one sound. 
+      We show that the above ideas give significant accuracy improvement, with the same training data and nearly identical model size, in scenarios where dynamic OOV words play a crucial role. 
+      On a dataset of queries to a speech-based digital assistant that include many user-dependent contact names, we observe up to 18% decrease in word error rate using the proposed improvements.</p></div>
+  </details>
   
 </div>
     
