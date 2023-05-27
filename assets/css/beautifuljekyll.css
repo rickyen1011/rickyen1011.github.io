@@ -120,7 +120,7 @@ ul.network-icon{
     word-break: break-word;
 }
 
-featurette-icon {
+.featurette-icon {
     display: block;
     width: 100%;
     color: #1565c0;
