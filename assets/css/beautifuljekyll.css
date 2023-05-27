@@ -10,7 +10,7 @@ html {
   font-size: 100%
 }
 
-body {
+/*body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 1.125rem;
   color: {{ site.text-col | default: "#404040" }};
@@ -21,6 +21,16 @@ body {
   background-attachment: fixed;
   {% endif %}
   overflow-wrap: break-word;
+}*/
+body {
+    font-family: inherit;
+    font-size: 1rem;
+    line-height: inherit;
+    color: inherit;
+    background-color: #fff;
+    padding-top: 0;
+    counter-reset: captions;
+    overflow-x: hidden;
 }
 p {
     display: block;
