@@ -67,12 +67,12 @@ hr.small {
   border-color: inherit;
   border-radius: 0.1875rem;
 }
-p.course {
+ul.ul-edu li .description p.course {
  font-size:0.9rem; 
 }
-p.institution{
-  font-size:0.9rem;
-  color:rgba(0,0,0,0.6);
+ul.ul-edu li .description p.institution {
+    font-size: .75rem;
+    color: rgba(0,0,0,.6);
 }
 ul.network-icon{
   display:inline-flex;
