@@ -20,6 +20,7 @@ author: Hao (Rick) Yen
 ###############################################
 
 navbar-links:
+  Home: "index"
   Experience: "experiences"
   Publications: "publications"
   
