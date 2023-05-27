@@ -141,6 +141,12 @@ img {
 .experience.m-2.border, .experience.col.border-right {
     border-color: #fbbfb7!important;
 }
+.portrait-title h3 {
+    font-size: 1rem;
+    font-weight: 300;
+    color: rgba(0,0,0,.54);
+    margin: 0 0 10px;
+}
 
 /* --- Navbar --- */
 
