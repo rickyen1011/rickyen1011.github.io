@@ -59,6 +59,12 @@ h4 {
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
+hr {
+    margin-top: 23px;
+    margin-bottom: 23px;
+    border: 0;
+    border-top: 1px solid #eeeeee;
+}
 a {
   color: {{ site.link-col | default: "#17a2b8" }};
 }
